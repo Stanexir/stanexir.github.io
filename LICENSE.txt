@@ -9,7 +9,7 @@ All Minecraft textures, models, sounds, and other assets that originate from
 Mojang Studios are © Mojang Studios and are used in accordance with the
 Minecraft End User License Agreement (https://www.minecraft.net/eula).
 
-No part of this resource pack grants permission to redistribute Mojang-owned
+No part of these resource packs grants permission to redistribute Mojang-owned
 assets outside of the Minecraft game.
 
 This pack is provided for use on the Space Server and may be downloaded by
