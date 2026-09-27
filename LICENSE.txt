@@ -14,3 +14,5 @@ assets outside of the Minecraft game.
 
 This pack is provided for use on the Space Server and may be downloaded by
 players for the purpose of seeing custom textures and models on the server.
+
+s1endingeventpack.zip pack contains assets that belong to https://github.com/bitmochibit/Defcon and fall under AGPL-3.0 license
